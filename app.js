@@ -1,6 +1,6 @@
 window.onload = function () {
 
-    let but = document.querySelector("#customSwitch1");
+    let but = document.querySelector(".but");
     document.body.style.background = "#282c35";
     but.addEventListener("change",function(){
 
